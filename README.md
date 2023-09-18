@@ -1,4 +1,6 @@
-Experience: Dominant in Javascript, HTML, and CSS; Medium experience with Python; Little experience with Java, C++, C, Swift.
-Reasons for Taking the Class: I want to sharpen my computer science skills and learn more about theories and algorithims (such as Leet Code type problems).
-Other interests: Neuroscience, AI/ML/Neural-Networks (even though I have never done this before, I am quite fascinated with it).
-Goals: To look at Stackoverflow signigicantly less, be more "handy" with programming (more general/overall knowledge in app/program development).
+Fullstack Software Developer in React.js and Firebase
+
+Goals:
+1. Develop in react.js significantly faster by the end of this year
+2. Get better at creating community-oriented ideas as the year progresses
+3. Write more comments and become more consistent with them in future code throughout the year
